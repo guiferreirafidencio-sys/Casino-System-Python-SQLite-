@@ -32,11 +32,6 @@ O backend e a lógica principal do sistema foram desenvolvidos por mim.
 
 A interface gráfica e alguns ajustes técnicos contaram com apoio de IA como ferramenta de aprendizado e auxílio durante o desenvolvimento.
 
-## ▶️ Como executar
-
-```bash
-pip install flet
-python app.py
 
 ## 📸 Preview
 
@@ -45,3 +40,10 @@ python app.py
 
 ### 🎰 Roleta
 ![Roleta](roleta.png)
+
+## ▶️ Como executar
+
+```bash
+pip install flet
+python app.py
+
